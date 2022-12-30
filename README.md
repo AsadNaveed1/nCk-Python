@@ -7,6 +7,7 @@ Last update: 14 Nov, 10:00pm
 
 Implement the Combinations by the formula of
 
+```
 _nC_k=_{n-1}C_{k-1}+_{n-1}C_k
 n
 ​
@@ -42,7 +43,7 @@ n
 n
 ​
  =1
-
+```
 using recursive function calls.  
 Assume that user input n and k in the first 2 lines, report all combinations calculated in the process. 
 
